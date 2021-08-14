@@ -4,7 +4,7 @@ Simple basic code in python to understand the game logic.
 
 **Features:**
 
-1.Player with marker X starts the game
+1.Player with marker 'X' starts the game
 
 2.Enter position to place the marker for each player
 
