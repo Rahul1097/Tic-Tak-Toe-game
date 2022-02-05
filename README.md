@@ -1,6 +1,6 @@
 # Tic-Tak-Toe-game
 
-Simple basic code in python to understand the game logic.
+Basic Tic-Tac-Toe game using Python for 2 players.
 
 <img src = "https://github.com/Rahul1097/Tic-Tak-Toe-game/blob/master/images/image1.PNG" width=100%>
 
