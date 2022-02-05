@@ -146,10 +146,3 @@ while True:
     #check if player wants to play again
     if not replay():
         break
-
-
-
-
-
-
-
